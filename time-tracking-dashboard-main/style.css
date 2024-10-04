@@ -207,12 +207,8 @@ transition: 0.3s;
     background-color: var(--Soft_orange);
 }
 
-@media(max-width:375px)
+@media(max-width:450px)
 {
-  
-    
-   
-   
     .container{
         flex-direction: column;
         width: 100%;
